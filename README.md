@@ -57,7 +57,7 @@ Agencies and professionals managing multiple client websites lose hours every we
 
 ## Confidentiality Notice & B2B Licensing
 
-🔒 **Proprietary Software Asset (All Rights Reserved):** This repository serves as a functional and architectural showcase within the Professional Portfolio ([https://antoniangeloflore.com](https://antoniangeloflore.com) — *Italian portal & video demos; full B2B delivery available in English*). For operational security and NDA compliance, the source code and internal implementation specifications are not publicly exposed.
+🔒 **Proprietary Software Asset (All Rights Reserved)**: This repository serves as a functional and architectural showcase within the Professional Portfolio (https://antoniangeloflore.com — **note:** *video pitches are currently in Italian; both the portfolio portal and B2B technical delivery are available in English*). For operational security and NDA compliance, the source code and internal packaging are not publicly exposed.
 
 🤝 **Agency White-Label & Custom Integration:** Available for multi-site agency licensing, custom WordPress/WooCommerce integration, and asynchronous technical consultations (no calls required). Reach out via [antoniangeloflore.com](https://antoniangeloflore.com) or [LinkedIn](https://www.linkedin.com/in/antoniangelo-f-30003622/).
 
