@@ -12,7 +12,7 @@
 
 The plugin provides an intuitive visual customization panel, granular user preference controls, and conditional activation of analytics/tracking scripts—all managed from a single control point with zero repetitive manual intervention.
 
-> **Live Production Validation:** This software asset is actively deployed and running in production on [antoniangeloflore.com](https://antoniangeloflore.com) *(Italian portal — English B2B delivery)* as well as additional live commercial websites.
+> **Live Production Validation:** This software asset is actively deployed and running in production on [antoniangeloflore.com](https://antoniangeloflore.com) as well as additional live commercial websites.
 
 ## The Problem Solved
 
